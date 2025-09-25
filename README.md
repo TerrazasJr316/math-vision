@@ -4,7 +4,12 @@
 
 ## Technologies Used
 
-## Installation & Configuration
+### Frontend
+
+* HTML
+* JavaScript
+
+## 📦 Installation & Configuration
 
 ### 1. Clone repository
 
@@ -12,6 +17,8 @@
 git clone https://github.com/TerrazasJr316/math-vision.git
 cd math-vision
 ```
+
+
 
 ## Functions
 
